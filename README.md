@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Arturitu
 
-I enjoy building interactive digital experiences that merge technology, creativity, and education. Currently exploring **AI, computer vision, and 3D** through open-source projects.  
+I enjoy building interactive digital experiences that merge technology and creativity. Currently exploring **AI, computer vision, and 3D** through open-source projects.  
 
 ### Experience Snapshot ###
 
@@ -10,8 +10,8 @@ Exploring AI-assisted creation tools and real-time 3D editors for STEAM educatio
 `2018-2023` **Co-founder of [sumo.app](http://sumo.app) (Finland)**  
 Focused on developing **edtech** solutions, experimenting with new ways to enhance learning experiences through technology.  
 
-`2015-2018` **Independent Consultant & [Contractor for Mozilla WebXR](https://unboring.net/cases/puzzlerain)**  
-Researching WebXR, real-time graphics, and interactive experiences using Three.js, WebRTC, and browser-based XR.  
+`2015-2018` **Independent Consultant & Contractor**  
+Researching WebXR, real-time graphics, and interactive experiences using Three.js, WebRTC, and browser-based XR, with a focus on two independent projects for Mozilla WebXR, such as [Mozilla Puzzle Rain](https://unboring.net/cases/puzzlerain) 
 
 `2014-2015` **Founder of [The Dreamsons](https://www.thedreamsons.com)**  
 Investigating how digital storytelling and interactive apps could create meaningful parent-child experiences.  
