@@ -2,25 +2,27 @@
 
 I enjoy building interactive digital experiences that merge technology and creativity. Currently exploring **AI, computer vision, and 3D** through open-source projects.  
 
-### Experience Snapshot ###
+### Experience Snapshot
 
-`2023-2025` **Head of Engineering at [kaixr.com](http://create.kaixr.com/) (USA)**  
-Exploring AI-assisted creation tools and real-time 3D editors for STEAM education in an **edtech** startup.  
+`2023–Present` **Head of Engineering at [Kai XR](https://create.kaixr.com/) (USA)**  
+Leading the development of a **real-time collaborative 3D editor** and **AI-powered assistant** for STEAM education.  
+Exploring new workflows that combine creativity, immersive UX, and generative AI in education.
 
-`2018-2023` **Co-founder of [sumo.app](http://sumo.app) (Finland)**  
-Focused on developing **edtech** solutions, experimenting with new ways to enhance learning experiences through technology.  
+`2014–Present` **Technical & Creative Director at [Unboring.net](https://unboring.net/) (Spain)**  
+Independent consultant and creative technologist working under my own brand.  
+Designing and developing **interactive experiences** that merge storytelling, 3D, and emerging web technologies.  
+Clients include **Mozilla** (WebXR prototypes), **The Dreamsons** (parent–child interactive apps), and various cultural and educational projects.
 
-`2015-2018` **Independent Consultant & Contractor**  
-Researching WebXR, real-time graphics, and interactive experiences using Three.js, WebRTC, and browser-based XR, with a focus on two independent projects for Mozilla WebXR, such as [Mozilla Puzzle Rain](https://unboring.net/cases/puzzlerain) 
+`2018–2023` **Co-founder of [Sumo Apps](https://sumo.app) (Finland)**  
+Co-founded an **edtech startup** building browser-based creative tools for learning 3D, logic, and game design.  
+Focused on **accessibility**, **progressive enhancement**, and playful learning through technology.
 
-`2014-2015` **Founder of [The Dreamsons](https://www.thedreamsons.com)**  
-Investigating how digital storytelling and interactive apps could create meaningful parent-child experiences.  
+`2010–2014` **Co-founder of [Unboring.net](https://unboring.net/) — Barrabés Consulting Group (Spain)**  
+Created **interactive applications** and **innovation projects** within the Barrabés ecosystem.  
+Worked on early **R&D initiatives** blending design, technology, and storytelling.
 
-`2010-2014` **Co-founder of [Unboring.net](http://unboring.net/)**  
-Exploring the intersection of interactivity, digital design, and emerging technologies.  
+`2003–2010` **Interactive Developer at [101.es](https://101.es/)**  
+Led the **technical and art direction** of award-winning digital campaigns for major brands.
 
-`2003-2010` **Interactive Developer**  
-Experimenting with interactive advertising, creative coding, and digital campaigns.  
-
-`2001-2003` **Web Designer**  
-Learning the early dynamics of e-commerce and web development.  
+`2001–2003` **Web Designer at [Barrabes.com](https://barrabes.com/)**  
+Contributed to one of Spain’s pioneering **e-commerce** platforms, designing and developing front-end interfaces.
