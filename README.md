@@ -4,7 +4,7 @@ I enjoy building interactive digital experiences that merge technology and creat
 
 ### Experience Snapshot
 
-`2023–Present` **Head of Engineering at [Kai XR](https://create.kaixr.com/) (USA)**  
+`2023–Present` **Creative Technologist at [Kai XR](https://create.kaixr.com/) (USA)**  
 Leading the development of a **real-time collaborative 3D editor** and **AI-powered assistant** for STEAM education.  
 Exploring new workflows that combine creativity, immersive UX, and generative AI in education.
 
